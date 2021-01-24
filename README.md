@@ -13,4 +13,4 @@ Some of the tools I've used include:
 - Python with Pandas, Scikit-Learn, Tensorflow, and Keras to design, train, and evaluate machine learning models to solve research problems
 - Angular, Java Spring, Node.js, for full stack development
 - UNIX scripting with `awk` and `bash` for task automation and data processing
-- NixOS and `nix` package manager for fully reproducible deployment and [declarative system management](https://github.com/kclejeune/system)
+- [NixOS](https://nixos.org) and `nix` package manager for fully reproducible deployment and [declarative system management](https://github.com/kclejeune/system)
