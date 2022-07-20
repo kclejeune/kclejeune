@@ -24,7 +24,7 @@ rate of agents in a network.
 Now, I'm a Software Engineer at the
 Johns Hopkins University Applied Physics Laboratory, where I work on
 machine learning research for automated biological threat
-assessment and full stack software engineering with Angular and Java Spring.
+assessment and full stack software engineering with Angular, Java, and Kotlin.
 
 Some of the tools I've used include:
 
